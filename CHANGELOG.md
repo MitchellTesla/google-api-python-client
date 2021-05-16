@@ -1,5 +1,26 @@
 # Changelog
 
+## [2.5.0](https://www.github.com/googleapis/google-api-python-client/compare/v2.4.0...v2.5.0) (2021-05-16)
+
+
+### Features
+
+* **analyticsadmin:** update the api https://github.com/googleapis/google-api-python-client/commit/9648bae09873a132e7b4627096c153043911be6e ([c2cd326](https://www.github.com/googleapis/google-api-python-client/commit/c2cd326ef156fc2652d23e4c64fd06e2d66e3a80))
+* **artifactregistry:** update the api https://github.com/googleapis/google-api-python-client/commit/7dd722fe8b0ae822f4847219c442aa67a1aae7fd ([c2cd326](https://www.github.com/googleapis/google-api-python-client/commit/c2cd326ef156fc2652d23e4c64fd06e2d66e3a80))
+* **assuredworkloads:** update the api https://github.com/googleapis/google-api-python-client/commit/9b84ffce415133e860cc55bfbd3b9c15c3d46a24 ([c2cd326](https://www.github.com/googleapis/google-api-python-client/commit/c2cd326ef156fc2652d23e4c64fd06e2d66e3a80))
+* **cloudasset:** update the api https://github.com/googleapis/google-api-python-client/commit/a8228db5ef31724493f0f62bf8062aca9adc44aa ([c2cd326](https://www.github.com/googleapis/google-api-python-client/commit/c2cd326ef156fc2652d23e4c64fd06e2d66e3a80))
+* **cloudbuild:** update the api https://github.com/googleapis/google-api-python-client/commit/c9d8208c0f9579d958224566af369b809e13016a ([c2cd326](https://www.github.com/googleapis/google-api-python-client/commit/c2cd326ef156fc2652d23e4c64fd06e2d66e3a80))
+* **compute:** update the api https://github.com/googleapis/google-api-python-client/commit/685c19d4b5262d27a2b1016e01186188afe610fd ([c2cd326](https://www.github.com/googleapis/google-api-python-client/commit/c2cd326ef156fc2652d23e4c64fd06e2d66e3a80))
+* **container:** update the api https://github.com/googleapis/google-api-python-client/commit/c5cd244f996b1dfb605ef28eb22f8b0e76bffa1b ([c2cd326](https://www.github.com/googleapis/google-api-python-client/commit/c2cd326ef156fc2652d23e4c64fd06e2d66e3a80))
+* **dialogflow:** update the api https://github.com/googleapis/google-api-python-client/commit/0c6b31fd2deb75ca1c023fed36903b638f5e74f8 ([c2cd326](https://www.github.com/googleapis/google-api-python-client/commit/c2cd326ef156fc2652d23e4c64fd06e2d66e3a80))
+* **documentai:** update the api https://github.com/googleapis/google-api-python-client/commit/6dcec9fd8c0f803d37b4c8355870208e5a8c61ce ([c2cd326](https://www.github.com/googleapis/google-api-python-client/commit/c2cd326ef156fc2652d23e4c64fd06e2d66e3a80))
+* **drive:** update the api https://github.com/googleapis/google-api-python-client/commit/8788823461610f31eebd655915e07def9690da48 ([c2cd326](https://www.github.com/googleapis/google-api-python-client/commit/c2cd326ef156fc2652d23e4c64fd06e2d66e3a80))
+* **genomics:** update the api https://github.com/googleapis/google-api-python-client/commit/d0e6cc48df2d0a00d91ce6fbab83aa82146f3573 ([c2cd326](https://www.github.com/googleapis/google-api-python-client/commit/c2cd326ef156fc2652d23e4c64fd06e2d66e3a80))
+* **logging:** update the api https://github.com/googleapis/google-api-python-client/commit/7f5fa161fd3db9ca6f2df23f5c8bd41ba01e9b9c ([c2cd326](https://www.github.com/googleapis/google-api-python-client/commit/c2cd326ef156fc2652d23e4c64fd06e2d66e3a80))
+* **privateca:** update the api https://github.com/googleapis/google-api-python-client/commit/0a5c31d74f788444640c174c413b12d494a00f1a ([c2cd326](https://www.github.com/googleapis/google-api-python-client/commit/c2cd326ef156fc2652d23e4c64fd06e2d66e3a80))
+* **pubsublite:** update the api https://github.com/googleapis/google-api-python-client/commit/dd67e9b117fdc8d0d0ecff6ade657003a95c12f7 ([c2cd326](https://www.github.com/googleapis/google-api-python-client/commit/c2cd326ef156fc2652d23e4c64fd06e2d66e3a80))
+* **recommender:** update the api https://github.com/googleapis/google-api-python-client/commit/4b261d97bea2a8bc042a274c2d904be09da2d82c ([c2cd326](https://www.github.com/googleapis/google-api-python-client/commit/c2cd326ef156fc2652d23e4c64fd06e2d66e3a80))
+
 ## [2.4.0](https://www.github.com/googleapis/google-api-python-client/compare/v2.3.0...v2.4.0) (2021-05-11)
 
 
